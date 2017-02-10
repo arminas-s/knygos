@@ -11,9 +11,14 @@ td, th {
 }
 
 thead	{
-    background-color: #aaa;
+    background-color: #778899;
 }
 
 tbody tr:nth-child(even) {
-    background-color: #ffeeee;
+    background-color: #D3D3D3;
+	
+
+head {
+	
+	background: #eee;
 }
